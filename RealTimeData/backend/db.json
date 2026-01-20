@@ -1,0 +1,54 @@
+{
+  "metrics": [
+    {
+      "id": 11,
+      "timestamp": "1:22:26 pm",
+      "value": 14
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:29 pm",
+      "value": 1
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:32 pm",
+      "value": 33
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:35 pm",
+      "value": 29
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:38 pm",
+      "value": 0
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:41 pm",
+      "value": 17
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:44 pm",
+      "value": 94
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:47 pm",
+      "value": 40
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:50 pm",
+      "value": 7
+    },
+    {
+      "id": 11,
+      "timestamp": "1:22:53 pm",
+      "value": 93
+    }
+  ]
+}
